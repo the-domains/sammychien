@@ -1,0 +1,28 @@
+name: SammyChien
+favicon: null
+layout_spectrum: 0.39358644955791533
+typography_spectrum: 0.1298603538889438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.900731117464602
+  lightness: 0.00821795524097979
+  saturation: 0.2583815148100257
+  rhythmicContrast: 0.3265933662187308
+purpose: []
