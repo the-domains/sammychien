@@ -4,7 +4,7 @@
         <description><![CDATA[SammyChien]]></description>
         <link>https://thegrid.ai/sammychien/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 06:36:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sammychien/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sammychien/24bee4ea-d8e4-4664-b56d-be1d07cd1723/index.html</link>
             <guid isPermaLink="false">24bee4ea-d8e4-4664-b56d-be1d07cd1723</guid>
             <pubDate>Fri, 04 Mar 2016 22:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>introducing Asia!</p>]]></description>
+            <link>https://thegrid.ai/sammychien/introducing-asia/index.html</link>
+            <guid isPermaLink="false">b3c1079d-392f-4440-bc96-9f52eea3668c</guid>
+            <pubDate>Thu, 07 Apr 2016 06:36:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
