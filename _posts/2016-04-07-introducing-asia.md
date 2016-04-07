@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'introducing Asia!'
-datePublished: '2016-04-07T16:36:11.300Z'
-dateModified: '2016-04-07T16:36:05.663Z'
-title: ''
+description: "Introducing.... Asia!\_"
+datePublished: '2016-04-07T16:42:05.171Z'
+dateModified: '2016-04-07T16:42:01.094Z'
+title: 'https://youtu.be/zEStT-HoUQo'
 author: []
 sourcePath: _posts/2016-04-07-introducing-asia.md
 published: true
@@ -23,16 +23,15 @@ _type: Article
 
 ---
 **Introducing.... Asia! **
+[
 
-> [
-> 
-> <iframe width=" 560" height="315" src="https://www.youtube.com/embed/zEStT-HoUQo" frameborder="0" allowfullscreen="" style="">"</iframe>
-> 
-> ][0]
-> 
-> # 
-> 
-> * [https://youtu.be/zEStT-HoUQo][1]
+<iframe width=" 560" height="315" src="https://www.youtube.com/embed/zEStT-HoUQo" frameborder="0" allowfullscreen="" style="">"</iframe>
+
+][0]
+
+# 
+
+* [https://youtu.be/zEStT-HoUQo][1]
 
 "Introducing Asia" (working title) an work-in-progress interdisciplinary co-creation by Sammy Chien, Scheherazaad Cooper &Tarun Nayar presented by Small Stage in Small Stage Salon Series Emerald‬ March 24 & 25, 2016\. 
 
@@ -48,19 +47,11 @@ Film shot & edited by
 
 Joseph Klymkiw
 
-a project of the 
-
-small
-
-stage
-
-incubator 
+a project of the smallstage incubator 
 
 thanks to the Emerald Room and Arts Club Theatre Company  
 
 [smallstage.ca][2]
-
-(website)
 
   
 
