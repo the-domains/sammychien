@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-07T18:04:39.599Z'
-dateModified: '2016-04-07T17:10:02.805Z'
+datePublished: '2016-04-09T02:08:52.316Z'
+dateModified: '2016-04-07T18:04:46.996Z'
 title: "Introducing.... Asia!\_"
 author: []
 sourcePath: _posts/2016-04-07-introducing-asia.md
