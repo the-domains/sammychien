@@ -4,7 +4,7 @@
         <description><![CDATA[SammyChien]]></description>
         <link>https://thegrid.ai/sammychien/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 02:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 02:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sammychien/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sammychien/24bee4ea-d8e4-4664-b56d-be1d07cd1723/index.html</link>
             <guid isPermaLink="false">24bee4ea-d8e4-4664-b56d-be1d07cd1723</guid>
             <pubDate>Fri, 04 Mar 2016 22:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing.... Asia! ]]></title>
+            <description><![CDATA[<h1>Introducing.... Asia! </h1>]]></description>
+            <link>https://thegrid.ai/sammychien/introducing-asia/index.html</link>
+            <guid isPermaLink="false">b3c1079d-392f-4440-bc96-9f52eea3668c</guid>
+            <pubDate>Sat, 09 Apr 2016 02:08:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/sammychien/had-a-really-good-meeting-with-scientist-samuel-brenner-who/index.html</link>
             <guid isPermaLink="false">632df97e-4c12-429c-b84e-94a8f6e0f59a</guid>
             <pubDate>Sat, 09 Apr 2016 01:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing.... Asia! ]]></title>
-            <description><![CDATA[<h1>Introducing.... Asia! </h1>]]></description>
-            <link>https://thegrid.ai/sammychien/introducing-asia/index.html</link>
-            <guid isPermaLink="false">b3c1079d-392f-4440-bc96-9f52eea3668c</guid>
-            <pubDate>Thu, 07 Apr 2016 18:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
