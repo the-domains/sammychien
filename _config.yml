@@ -1,7 +1,7 @@
 name: SammyChien
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7015
+typography_spectrum: 0.01583
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.625
-  lightness: 0.8125
-  saturation: 0.2583815148100257
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
