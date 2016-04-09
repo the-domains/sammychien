@@ -3,11 +3,11 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: 'April 10th Sunday a Science World, as part of the event Meet a Scientist - Experiment with an Artist organized by Curiosity Collider, with Loco Moto Art'
-datePublished: '2016-04-09T01:36:37.890Z'
-dateModified: '2016-04-09T01:36:26.193Z'
+description: 'Had a really good meeting with scientist Samuel Brenner who I will be collaborating with at Science World! We chat about our research, natural environment and convey our experiments in a fun way. I found it really interesting how Samuel uses body movement while delineating his research on fluid mechanics about the effects of wind on lakes. Maybe we will all start dancing in science world with the kids being the water in the lake.'
+datePublished: '2016-04-09T01:37:06.023Z'
+dateModified: '2016-04-09T01:36:45.478Z'
 title: ''
 author: []
 authors: []
