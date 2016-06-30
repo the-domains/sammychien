@@ -1,5 +1,7 @@
-favicon: null
-name: SammyChien
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,7 +20,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6989247
+  saturation: 0.2365591
   brandStrength: 0.25
   lightness: 0.2078853
   brandColors:
@@ -29,12 +31,10 @@ color:
     - '#ff8f00'
   rhythmicContrast: 0
 typography_spectrum: 0.3835126
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
+name: SammyChien
