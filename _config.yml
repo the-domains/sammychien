@@ -1,28 +1,40 @@
-name: SammyChien
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.01583
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: SammyChien
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9375
+  brandStrength: 0.25
+  rhythmicContrast: 0.25
   brandColors:
     - '#43625c'
     - '#fe2611'
     - '#000005'
     - '#fefe00'
     - '#ff8f00'
-  brandStrength: 0.25
   lightness: 0.25
-  saturation: 0.9375
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.3835126
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
