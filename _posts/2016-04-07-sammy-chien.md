@@ -4,22 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
 keywords: []
-description: home page
-datePublished: '2016-04-07T17:59:10.170Z'
-dateModified: '2016-04-07T17:58:58.800Z'
-title: Sammy Chien
+description: SAMMY CHIENPERFORMANCE + NEW MEDIA
+datePublished: '2016-07-07T05:56:10.629Z'
+dateModified: '2016-07-07T05:56:10.004Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-07-sammy-chien.md
-published: true
+authors: []
+publisher: null
+starred: true
 _type: Blurb
 
 ---
+SAMMY CHIEN  
+PERFORMANCE + NEW MEDIA
+
+CINEMA + SOUND ART +REAL TIME
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28b4928d-16bc-4dd6-a71b-46454f3379fb.jpg)
