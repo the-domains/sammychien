@@ -6,14 +6,14 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: SAMMY CHIENPERFORMANCE + NEW MEDIA
-datePublished: '2016-07-07T05:56:18.536Z'
-dateModified: '2016-07-07T05:56:17.616Z'
+datePublished: '2016-07-07T05:56:30.799Z'
+dateModified: '2016-07-07T05:56:30.231Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-07-sammy-chien.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
