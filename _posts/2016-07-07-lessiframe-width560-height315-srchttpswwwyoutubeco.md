@@ -3,21 +3,23 @@ description: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/VNMnyaow4oo" frameborder="0"
   allowfullscreen></iframe>
-dateModified: '2016-07-07T05:52:36.278Z'
-datePublished: '2016-07-07T05:52:53.069Z'
-title: ''
+dateModified: '2016-07-07T05:53:38.281Z'
+datePublished: '2016-07-07T05:53:39.306Z'
+title: Anahata 心輪 the official opening show of the 2015 Taichung Light Festival
 author: []
-starred: false
 sourcePath: _posts/2016-07-07-lessiframe-width560-height315-srchttpswwwyoutubeco.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# Anahata 心輪 the official opening show of the 2015 Taichung Light Festival
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNMnyaow4oo" frameborder="0" allowfullscreen\></iframe\>
 
-video documentation excerpt of Anahata (心輪) written and directed by Chimerik似不像, produced and organized by Subkarma (薩巴卡瑪), the official opening show of the 2015 Taichung Light Festival. 
+video documentation excerpt of Anahata (心輪) written and directed by Chimerik似不像, produced and organized by Subkarma (薩巴卡瑪), the official opening show of the 2015 Taichung Light Festival.
 
 this video is preliminary v1
 
