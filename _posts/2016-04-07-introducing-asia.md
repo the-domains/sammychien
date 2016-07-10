@@ -1,30 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-04-09T02:08:52.316Z'
-dateModified: '2016-04-07T18:04:46.996Z'
-title: "Introducing.... Asia!\_"
-author: []
+datePublished: '2016-07-10T01:47:01.826Z'
 sourcePath: _posts/2016-04-07-introducing-asia.md
-published: true
+inFeed: false
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-10T01:45:37.877Z'
+title: ''
+publisher: null
+description: Introducing.... Asia!
+inLanguage: null
+inNav: true
+starred: false
 url: introducing-asia/index.html
-_type: Article
+_type: WebPage
 
 ---
-**Introducing.... Asia! **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63a246e3-d2be-4e46-aff4-fa16b14b0037.jpg)
 
-"Introducing Asia" (working title) an work-in-progress interdisciplinary co-creation by Sammy Chien, Scheherazaad Cooper &Tarun Nayar presented by Small Stage in Small Stage Salon Series Emerald‬ March 24 & 25, 2016\. 
+**Introducing.... Asia!**
+
+"Introducing Asia" (working title) an work-in-progress interdisciplinary co-creation by Sammy Chien, Scheherazaad Cooper &Tarun Nayar presented by Small Stage in Small Stage Salon Series Emerald‬ March 24 & 25, 2016\.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-L021jcddus" frameborder="0" allowfullscreen\></iframe\>
 
 Co-created by Sammy Chien, Scheherazaad Cooper & Tarun Nayar
 
@@ -38,9 +37,9 @@ Artistic Producer - Julie-anne Saroyan
 
 Film shot & edited by Joseph Klymkiw
 
-a project of the smallstage incubator 
+a project of the smallstage incubator
 
-thanks to the Emerald Room and Arts Club Theatre Company  
+thanks to the Emerald Room and Arts Club Theatre Company
 
 [smallstage.ca][0]
 
