@@ -4,7 +4,7 @@
         <description><![CDATA[SammyChien]]></description>
         <link>https://thegrid.ai/sammychien/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 01:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 01:51:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sammychien/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 04 Mar 2016 22:06:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f7c2b7d-3511-4f19-ae71-67e70a922052.jpg">]]></description>
+            <link>https://thegrid.ai/sammychien/101b653d-b129-4660-8650-99a936da454c/index.html</link>
+            <guid isPermaLink="false">101b653d-b129-4660-8650-99a936da454c</guid>
+            <pubDate>Sun, 10 Jul 2016 01:51:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet a Scientist - Experiment with an Artist ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/516afddb-2892-4446-a983-de8935b542ea.jpg">]]></description>
             <link>https://thegrid.ai/sammychien/had-a-really-good-meeting-with-scientist-samuel-brenner-who/index.html</link>
             <guid isPermaLink="false">632df97e-4c12-429c-b84e-94a8f6e0f59a</guid>
             <pubDate>Sat, 09 Apr 2016 02:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f7c2b7d-3511-4f19-ae71-67e70a922052.jpg">]]></description>
-            <link>https://thegrid.ai/sammychien/101b653d-b129-4660-8650-99a936da454c/index.html</link>
-            <guid isPermaLink="false">101b653d-b129-4660-8650-99a936da454c</guid>
-            <pubDate>Sat, 09 Apr 2016 02:06:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
