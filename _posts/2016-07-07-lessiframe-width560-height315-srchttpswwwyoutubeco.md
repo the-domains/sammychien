@@ -3,8 +3,8 @@ description: >-
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/VNMnyaow4oo" frameborder="0"
   allowfullscreen></iframe>
-dateModified: '2016-07-07T05:53:38.281Z'
-datePublished: '2016-07-07T05:53:39.306Z'
+dateModified: '2016-07-07T05:55:40.744Z'
+datePublished: '2016-07-10T01:47:42.229Z'
 title: Anahata 心輪 the official opening show of the 2015 Taichung Light Festival
 author: []
 sourcePath: _posts/2016-07-07-lessiframe-width560-height315-srchttpswwwyoutubeco.md
@@ -19,9 +19,7 @@ _type: MediaObject
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VNMnyaow4oo" frameborder="0" allowfullscreen\></iframe\>
 
-video documentation excerpt of Anahata (心輪) written and directed by Chimerik似不像, produced and organized by Subkarma (薩巴卡瑪), the official opening show of the 2015 Taichung Light Festival.
-
-this video is preliminary v1
+video documentation excerpt of Anahata (心輪) written and directed by Chimerik似不像, produced and organized by Subkarma (薩巴卡瑪), the official opening show of the 2015 Taichung Light Festival. (This video is preliminary v1)
 
 credits:
 
@@ -51,8 +49,7 @@ Delta 台達
 Nancy Lee
 
 ----  
-Anahata
-
+Anahata  
 An outdoor affair located in the heart of historical Taichung, Taiwan, Anahata is a site-specific performance which integrates projection, new media, movement and sound that utilizes the heritage Taichung Park Pavilion as its vessel. Positioned in the centre of Taiwan, Taichung City embodies multiple implications in relation to Anāhata---the heart chakra---ranging from the city's vibrant past during Japanese colonization to the establishment of the railway tracks connecting the island together. Taking this coalescent concept, Anahata explores the heart chakra's states of serenity; our ability to love whilst being loved; and the unbeaten spirit in order to magnify the city's vibrant past and hopeful revival. While life progresses in cyclical and multi-dimensional time, how are we to embrace the present in conjunction with the universe's ever-changing nature?
 
 Text Written by Sammy Chien & Corina Pilay
