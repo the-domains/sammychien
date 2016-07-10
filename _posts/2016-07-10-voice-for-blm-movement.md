@@ -3,12 +3,12 @@ description: >-
   I can't sleep, I've been reading/researching on the BLM movement, news and
   incidents, as well as people's reactions and comments around the world. It's
   really disturbing and disheartening, yet very inspiring at the same time. 
-dateModified: '2016-07-10T11:19:12.982Z'
-datePublished: '2016-07-10T11:19:54.602Z'
+dateModified: '2016-07-10T11:20:01.124Z'
+datePublished: '2016-07-10T11:20:01.620Z'
 title: voice for BLM movement
 author: []
 sourcePath: _posts/2016-07-10-voice-for-blm-movement.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
