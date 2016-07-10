@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-10T01:50:05.173Z'
+datePublished: '2016-07-10T01:50:39.754Z'
 sourcePath: _posts/2016-04-07-introducing-asia.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-10T01:50:04.636Z'
+dateModified: '2016-07-10T01:50:38.893Z'
 title: ''
 publisher: null
 description: Introducing.... Asia!
 inLanguage: null
 inNav: true
-starred: true
+starred: false
 url: introducing-asia/index.html
 _type: WebPage
 
